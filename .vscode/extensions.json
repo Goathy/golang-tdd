@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "golang.Go"
+        "golang.go",
+        "streetsidesoftware.code-spell-checker"
     ]
 }

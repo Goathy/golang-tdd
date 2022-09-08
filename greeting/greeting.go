@@ -1,5 +1,12 @@
 package main
 
+const englisHelloPrefix = "Hello, "
+
 func Greeting(name string) string {
-	return "Hello, " + name
+
+	if name == "" {
+		name = "World "
+	}
+
+	return englisHelloPrefix + name
 }

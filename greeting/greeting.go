@@ -1,12 +1,27 @@
 package main
 
-const englisHelloPrefix = "Hello, "
+const polish = "Polish"
+const norwegian = "Norwegian"
+const englishHelloPrefix = "Hello, "
+const polishHelloPrefix = "Cześć, "
+const norwegianHelloPrefix = "Hallo, "
 
-func Greeting(name string) string {
+func Greeting(name, lang string) string {
 
 	if name == "" {
-		name = "World "
+		name = "World"
 	}
 
-	return englisHelloPrefix + name
+	return greetingPrefix(lang) + name
+}
+
+func greetingPrefix(lang string) string {
+	switch lang {
+	case polish:
+		return polishHelloPrefix
+	case norwegian:
+		return norwegianHelloPrefix
+	default:
+		return englishHelloPrefix
+	}
 }

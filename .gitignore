@@ -18,3 +18,5 @@
 !structs_methods_interfaces/*
 !pointers_errors
 !pointers_errors/*
+!maps
+!maps/*

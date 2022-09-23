@@ -22,3 +22,5 @@
 !maps/*
 !dependency_injection
 !dependency_injection/*
+!mocking
+!mocking/*

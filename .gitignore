@@ -24,3 +24,5 @@
 !dependency_injection/*
 !mocking
 !mocking/*
+!concurrency
+!concurrency/*

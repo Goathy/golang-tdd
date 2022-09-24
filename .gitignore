@@ -26,3 +26,5 @@
 !mocking/*
 !concurrency
 !concurrency/*
+!select
+!select/*

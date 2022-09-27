@@ -30,3 +30,5 @@
 !select/*
 !reflection
 !reflection/*
+!sync
+!sync/*

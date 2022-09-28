@@ -34,3 +34,5 @@
 !sync/*
 !context
 !context/*
+!property-based-testing
+!property-based-testing/*

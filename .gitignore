@@ -36,3 +36,9 @@
 !context/*
 !property-based-testing
 !property-based-testing/*
+!maths/
+!maths/*
+!math/clockface/
+!math/clockface/*
+!math/svg/
+!math/svg/*

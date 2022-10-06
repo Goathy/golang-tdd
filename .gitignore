@@ -42,3 +42,5 @@
 !math/clockface/*
 !math/svg/
 !math/svg/*
+!reading-files/
+!reading-files/*

@@ -2,6 +2,7 @@
 !.gitignore
 !LICENSE.md
 !go.mod
+!go.sum
 !.vscode
 !.vscode/*
 !hello
@@ -44,3 +45,7 @@
 !math/svg/*
 !reading-files/
 !reading-files/*
+!templating/
+!templating/*
+!templating/templates/
+!templating/templates/*

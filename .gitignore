@@ -49,3 +49,5 @@
 !templating/*
 !templating/templates/
 !templating/templates/*
+!generics/
+!generics/*

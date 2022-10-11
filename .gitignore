@@ -51,3 +51,5 @@
 !templating/templates/*
 !generics/
 !generics/*
+!generic-with-slices/
+!generic-with-slices/*

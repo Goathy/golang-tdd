@@ -53,3 +53,5 @@
 !generics/*
 !generic-with-slices/
 !generic-with-slices/*
+!http-server/
+!http-server/*
